@@ -1,4 +1,4 @@
-# tximeta: Import transcript abundances with automagic generation of metadata"
+# tximeta: Import transcript abundances with automagic generation of metadata
 
 Michael Love, Rob Patro
 
